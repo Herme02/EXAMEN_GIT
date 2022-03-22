@@ -8,6 +8,11 @@ import com.calc.model.Entero;
 import com.calc.model.Numero;
 
 public class MainApp {
+	
+	/**
+	 * La clase Main crea los objetos necesarios para poder realizar el calculo y muestra diferentes ejemplos
+	 * @param args
+	 */
 
 	public static void main(String[] args) {
 
