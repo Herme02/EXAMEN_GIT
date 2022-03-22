@@ -1,6 +1,11 @@
 package com.calc.model;
 
 public class Entero extends Numero {
+	
+	/**
+	 * Aqui tenemos la clase entero que viene heredada de la clase numero en el que vienen implementado una cuantas excepciones
+	 *
+	 */
 
 	private static final int VALOR_MINIMO = -100000;
 	private static final int VALOR_MAXIMO = 100001;
