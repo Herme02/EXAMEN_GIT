@@ -5,6 +5,10 @@ import com.calc.model.Entero;
 import com.calc.model.Numero;
 
 public class Aritmetica {
+	
+	/**
+	 * AQUI TENEMOS LA CLASE Aritmetica, la cual nos calcula los datos insertados desde el Main.
+	 * */
 
 	public Aritmetica() {}
 
